@@ -1,0 +1,5 @@
+DATABASE_URL=your_supabase_url
+
+GROQ_API_KEY=your_groq_key
+
+GEMINI_API_KEY=your_gemini_key
